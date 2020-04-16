@@ -28,7 +28,7 @@ android {
     dataBinding {
         enabled true
     }
-    //Used below to suppor coil image library
+    //Used below to support coil image library
     compileOptions {
         targetCompatibility JavaVersion.VERSION_1_8
     }
@@ -51,16 +51,9 @@ dependencies {
 
     implementation 'androidx.recyclerview:recyclerview:1.0.0'
     implementation 'com.master.android:simpleadapter:3.2'
-
     implementation("io.coil-kt:coil:0.7.0")
-
     implementation 'androidx.cardview:cardview:1.0.0'
-
-//    api 'com.google.android.exoplayer:exoplayer-core:2.9.6'
-//    api 'com.google.android.exoplayer:exoplayer:2.9.3'
-
     implementation project(path: ':library')
-//    implementation 'com.github.pankaj89:MasterExoPlayer:1.4.2'
 
     // Architecture Components
     implementation "android.arch.lifecycle:runtime:$arch_version"
@@ -77,7 +70,6 @@ dependencies {
     implementation "android.arch.paging:runtime:1.0.0-alpha2"
     kapt "android.arch.persistence.room:compiler:$arch_version"
     kapt "android.arch.lifecycle:compiler:$arch_version"
-
 
     // rxJava
     implementation "io.reactivex.rxjava2:rxjava:$rxjava_version"
