@@ -138,11 +138,9 @@ binding.masterExoPlayer.listener = object : ExoPlayerHelper.Listener {
 ###### Exo Player by Google [(<u><i>link</i></u>)](https://github.com/google/ExoPlayer)
 ###### Coil Image Loading library for Kotlin [(<u><i>link</i></u>)](https://github.com/coil-kt/coil)
 
-### My Other Libraries
-###### Runtime Permission Helper [(<u><i>link</i></u>)](https://github.com/google/ExoPlayer)
-###### ADB Input (Android Studio Plugin) [(<u><i>link</i></u>)](https://plugins.jetbrains.com/plugin/13758-adb-input/versions)
+### My Portfolio
+###### Portfolio [(<u><i>link</i></u>)](https://medium.com/@cheetahmail007/abhishek-pathak-senior-android-dev-portfolio-23e5dbde3cda)
 ### License
 ```
 Copyright 2020 Abhishek Pathak
-###### Porfolio [(<u><i>link</i></u>)](https://medium.com/@cheetahmail007/abhishek-pathak-senior-android-dev-portfolio-23e5dbde3cda)
 
