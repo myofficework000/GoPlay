@@ -5,8 +5,6 @@
 # MasterExoPlayer for Recycler view (build with kotlin)
 ####  #3 Line code for playing video inside RecyclerView
 
-[![N|Solid](https://img.shields.io/badge/Android%20Arsenal-Simpler%20Recycler%20View%20Adapter-brightgreen.svg)](https://android-arsenal.com/details/1/5354)
-
 #### MasterExoPlayer is lightweight utility for helping Play Video inside RecyclerView.
 
 # Features
@@ -146,4 +144,5 @@ binding.masterExoPlayer.listener = object : ExoPlayerHelper.Listener {
 ### License
 ```
 Copyright 2020 Abhishek Pathak
+[![N|Solid](https://medium.com/@cheetahmail007/abhishek-pathak-senior-android-dev-portfolio-23e5dbde3cda)
 
