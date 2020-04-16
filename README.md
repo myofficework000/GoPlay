@@ -7,6 +7,18 @@
 
 #### MasterExoPlayer is lightweight utility for helping Play Video inside RecyclerView.
 
+## Screenshots
+
+<img alt="NewsApp Main Page" height="450px"
+src="https://github.com/cheetahmail007/GoPlay/blob/master/art/pic_first.png" />
+
+<img alt="NewsApp Main Page" height="450px"
+src="https://github.com/cheetahmail007/News-Anywhere/blob/master/art/pic_dash.png" />
+
+<img alt="NewsApp Main Page" height="450px"
+src="https://github.com/cheetahmail007/News-Anywhere/blob/master/art/pic_second.png" />
+
+
 # Features
 - ##### Easy to use (Just 3 line of code)
 - ##### No Need to create different view holder to support playing video
