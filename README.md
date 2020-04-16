@@ -144,5 +144,5 @@ binding.masterExoPlayer.listener = object : ExoPlayerHelper.Listener {
 ### License
 ```
 Copyright 2020 Abhishek Pathak
-[![N|Solid](https://medium.com/@cheetahmail007/abhishek-pathak-senior-android-dev-portfolio-23e5dbde3cda)
+###### Porfolio [(<u><i>link</i></u>)](https://medium.com/@cheetahmail007/abhishek-pathak-senior-android-dev-portfolio-23e5dbde3cda)
 
